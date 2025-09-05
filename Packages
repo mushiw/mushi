@@ -1,12 +1,14 @@
 Package: com.mushi.mushi
 Version: 1.0.0-8+debug
 Architecture: iphoneos-arm
-Maintainer: Mushi Team
+Maintainer: Mushi Team <mushi@example.com>
 Depends: mobilesubstrate
 Description: Mushi Plugin
  A custom plugin for iOS devices.
  .
  This package provides the Mushi plugin functionality.
+ .
+ Homepage: https://github.com/mushiw/mushi
 Section: Tweaks
 Priority: optional
 Filename: ./debs/com.mushi.mushi_1.0.0-8+debug_iphoneos-arm.deb
